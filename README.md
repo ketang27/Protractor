@@ -1,7 +1,7 @@
 ## Steps of running this project
 from the command prompt clone the project
 * $git clone https://github.com/ketang27/Protractor.git
-* $cd protractor-keyword-driven-famework
+* $cd Protractor
 * $npm install -g protractor
 * $webdriver-manager update
 * $webdriver-manager start
